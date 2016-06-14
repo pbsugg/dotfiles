@@ -1,0 +1,19 @@
+
+
+#self-added aliases
+
+alias h="history 5"
+alias hi="history 10"
+alias his="history 20"
+
+alias vi="$(which vim)"
+alias vimrc="vim ~/.vim/vimrc"
+
+alias vimfolder="cd ~/.vim"
+
+alias bash_profile="vim ~/.bash_profile"
+
+#git aliases
+alias gs="git status"
+alias gd="git diff"
+
